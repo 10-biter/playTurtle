@@ -40,6 +40,13 @@ namespace custom {
 
 
 
+        /**
+     * TODO: describe your function here
+     * @param n describe parameter here, eg: 5
+     * @param s describe parameter here, eg: "Hello"
+     * @param e describe parameter here
+     */
+        //% block
 
     export function fooda(n: number, s: string, e: MyEnum): void {
         // Add code here
